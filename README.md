@@ -3,3 +3,5 @@ Now that you all have a GitHub, you should fork and clone this repository to alw
 
 
 I am Sean
+
+hey whats going on in this world. i love it
